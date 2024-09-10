@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KFD", "KFD\KFD.vcxproj", "{AD91E132-0D91-4386-8F8D-CF025811B396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Debug|x64.ActiveCfg = Debug|x64
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Debug|x64.Build.0 = Debug|x64
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Debug|x86.Build.0 = Debug|Win32
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Release|x64.ActiveCfg = Release|x64
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Release|x64.Build.0 = Release|x64
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Release|x86.ActiveCfg = Release|Win32
+		{AD91E132-0D91-4386-8F8D-CF025811B396}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C0B0F5-8260-4001-BEC6-CE9EB8BB75AE}
+	EndGlobalSection
+EndGlobal

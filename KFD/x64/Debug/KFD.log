@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\black\codes\KFD\KFD\main.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KFD.vcxproj -> C:\Users\black\codes\KFD\x64\Debug\KFD.exe
